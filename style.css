@@ -1,0 +1,72 @@
+body {
+     margin: 0 800px 0 800px;
+     color:rgb(46, 81, 162);
+     padding: auto;
+}
+.top {
+     display: inline-block;
+     width: 100%;
+}
+#myanimelist {
+     float: left;
+}
+#viewing {
+     float: right;
+     position: relative;
+     top: 10px;
+}
+.header {
+     position: relative;
+     top: -20px;
+     border: 1px solid rgba(216, 216, 216);
+     padding: 15px 15px 0 15px;
+}
+header {
+     color: white;
+     text-align: center;
+     background-color: rgb(46, 81, 162);
+     padding: 50px;
+     line-height: 1px;
+}
+.headertext h1 {
+     font-size: 60px;
+}
+.headertext h4 {
+     letter-spacing: 2px;
+}
+nav {
+     display: flex;
+     justify-content: space-around;
+     color: gray;
+}
+#highlighted {
+     color: rgb(46, 81, 162);
+     text-decoration: underline;
+}
+.header2 {
+     color: white;
+     text-align: center;
+     background-color: rgb(46, 81, 162);
+}
+.header2 h3 {
+     line-height: 32px;
+}
+.list {
+     position: relative;
+     margin-top: -21px;
+     border: 1px solid rgb(216, 216, 216);
+     padding: 0 15px 0 15px;
+}
+.title {
+     background-color: rgb(235, 235, 235);
+     position: relative;
+     bottom: 20px;
+     color: black;
+}
+#left {
+     word-spacing: 15px;
+}
+#right {
+     float: right;
+     word-spacing: 15px;
+}
